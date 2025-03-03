@@ -17,4 +17,11 @@ Data Sources (Public real estate datasets, Zillow, government reports, etc.)
 - Identify the most influential features impacting real estate prices
 - Provide actionable insights into market trends and property valuation
 
+## Project Workflow
 
+1. Data Collection – Gather real estate pricing and market trend data.
+2. Data Cleaning & Preprocessing – Handle missing values, remove outliers, encode categorical variables, and scale features.
+3. Exploratory Data Analysis – Visualize trends, correlations, and patterns in the data.
+4. Feature Engineering – Extract meaningful features to improve model performance.
+5. Model Training & Evaluation – Train multiple machine learning models and evaluate their accuracy.
+6. Results & Insights – Summarize findings and visualize key takeaways.1
