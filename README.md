@@ -24,4 +24,7 @@ Data Sources (Public real estate datasets, Zillow, government reports, etc.)
 3. Exploratory Data Analysis – Visualize trends, correlations, and patterns in the data.
 4. Feature Engineering – Extract meaningful features to improve model performance.
 5. Model Training & Evaluation – Train multiple machine learning models and evaluate their accuracy.
-6. Results & Insights – Summarize findings and visualize key takeaways.1
+6. Results & Insights – Summarize findings and visualize key takeaways.
+
+## How to Run Project
+First download the project
