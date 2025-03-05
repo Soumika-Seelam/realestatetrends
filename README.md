@@ -26,5 +26,27 @@ Data Sources (Public real estate datasets, Zillow, government reports, etc.)
 5. Model Training & Evaluation – Train multiple machine learning models and evaluate their accuracy.
 6. Results & Insights – Summarize findings and visualize key takeaways.
 
-## How to Run Project
-First download the project
+## How to Run the Project
+
+1. Clone the Repository
+
+git clone <https://github.com/Soumika-Seelam/realestatetrends.git>
+cd <project-folder>
+
+2. Install Dependencies
+- Make sure you have Python installed, then run:
+pip install -r requirements.txt
+
+3. Run the Jupyter Notebook
+- Start Jupyter Notebook and open the project file:
+jupyter notebook
+- Then navigate to the notebook file (real_estate_analysis.ipynb) and run the cells sequentially.
+
+4. Review the Results
+- Check the exploratory data analysis (EDA) plots
+- Review the feature importance chart
+- Evaluate the model performance metrics (MAE, RMSE, R² Score)
+
+5. Modify and Experiment
+
+Feel free to tweak hyperparameters, add new features, or try different models to improve performance!
