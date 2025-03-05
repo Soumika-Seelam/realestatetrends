@@ -4,7 +4,7 @@ The Real Estate Market Trends Analysis project is an end-to-end machine learning
 
 ## Tech Stack
 
-Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 Jupyter Notebook (For exploratory data analysis and visualization)
 Machine Learning Models (Linear Regression, Decision Trees, Random Forest, etc.)
 Data Sources (Public real estate datasets, Zillow, government reports, etc.)
@@ -29,17 +29,22 @@ Data Sources (Public real estate datasets, Zillow, government reports, etc.)
 ## How to Run the Project
 
 1. Clone the Repository
-
+```
 git clone <https://github.com/Soumika-Seelam/realestatetrends.git>
 cd <project-folder>
+```
 
-2. Install Dependencies
+3. Install Dependencies
 - Make sure you have Python installed, then run:
+```
 pip install -r requirements.txt
+```
 
 3. Run the Jupyter Notebook
 - Start Jupyter Notebook and open the project file:
+```
 jupyter notebook
+```
 - Then navigate to the notebook file (real_estate_analysis.ipynb) and run the cells sequentially.
 
 4. Review the Results
